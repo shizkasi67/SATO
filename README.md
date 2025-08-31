@@ -1,4 +1,6 @@
 # SATO
+<H3>LINK DE DESARGA https://shizkasi.itch.io/sato </H3>
+(por motivos de tamaño esta subido en itch.io donde se puede descargar)<br><br><br>
 
 Este proyecto corresponde al desarrollo de un videojuego de plataformas en 2D, creado durante mi tercer año de la carrera Ingeniería en Informática.
 
